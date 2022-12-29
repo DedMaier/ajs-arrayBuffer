@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/gov8nbk8av7psura?svg=true)](https://ci.appveyor.com/project/DedMaier/ajs-arraybuffer)
 ## `ArrayBuffer` 
 
 ### Легенда
